@@ -1,8 +1,13 @@
 ---
 title: "new_website"
 about: 
-  template: jolla
+  template: trestles
   image: "H_Leonard_fieldwork.jpg"
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/hugh-leonard-51440019a
+    - text: Email
+      href: mailto:heleonar@ucsc.edu
 ---
 
 This is a Quarto website.
