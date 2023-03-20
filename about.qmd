@@ -2,8 +2,11 @@
 title: "About"
 ---
 
-About this site
+About this site:
+
+This site is currently under construction.
 
 ```{r}
-1 + 1
+#| echo: false
+
 ```
