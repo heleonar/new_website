@@ -1,5 +1,6 @@
 ---
 title: "new_website"
+image: "H_Leonard_fieldwork.jpg"
 ---
 
 This is a Quarto website.
